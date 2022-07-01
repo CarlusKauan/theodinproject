@@ -15,3 +15,6 @@
 
 <p><a href="https://www.toptal.com/project-managers/tomato-timer">Pomodoro Buzzzz!</a></p>
 
+## métodos de depuração
+
+<p><a href="https://rubberduckdebugging.com/">rubberduckdebugging</a></p>
