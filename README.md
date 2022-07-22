@@ -11,6 +11,8 @@
 <p><a href="https://xyproblem.info/">"O problema XY"</a></p>
 <p><a href="https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603">"Como ser ótimo em fazer perguntas de codificação"</a></p>
 
+<p><a href="https://www.theodinproject.com/lessons/foundations-computer-basics">Fundamentos basicos de Computação</a></p>
+
 ## métodos de estudo 
 
 <p><a href="https://www.toptal.com/project-managers/tomato-timer">Pomodoro Buzzzz!</a></p>
